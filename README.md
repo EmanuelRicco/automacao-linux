@@ -29,3 +29,10 @@ A ideia aqui não é apenas automatizar tarefas, mas **aprender, testar, errar, 
 - Bash / Shell Script
 
 ---
+## 🔧 Scripts disponíveis
+
+### CriarUsuarios.sh
+- Cria usuários Linux em lote a partir de um unico arquivo
+- Gera senhas automaticamente
+- Pode redefinir senhas de usuários que já existem
+- Salva as senhas dentro de um novo arquivo
